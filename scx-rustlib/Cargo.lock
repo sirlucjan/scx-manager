@@ -726,7 +726,7 @@ dependencies = [
 [[package]]
 name = "scx_loader"
 version = "1.1.3"
-source = "git+https://github.com/sched-ext/scx-loader.git?branch=lucjan%2Fworkbench-trunk#04d38ba1bbbaa4dace2a8a2b872856f179f70957"
+source = "git+https://github.com/sched-ext/scx-loader.git?branch=lucjan%2Fworkbench-trunk#24875d62ea3a736869c665bc102d9fca025bf1ca"
 dependencies = [
  "anyhow",
  "clap",
